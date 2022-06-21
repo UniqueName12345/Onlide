@@ -1,0 +1,8 @@
+/* make the background color of the body vscode dark grey */
+body {
+  background-color: #2e2e2e;
+}
+/* make the background color of the text box slightly lighter */
+.save_area {
+  background-color: #454545;
+}
